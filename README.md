@@ -1,3 +1,5 @@
+Use fetch method to make connection request and SubPub and make connection between Components/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
