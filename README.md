@@ -1,4 +1,4 @@
-Use fetch method to make connection request and SubPub and make connection between Components/
+Use fetch method to make connection request and SubPub and make connection between Components
 
 # Getting Started with Create React App
 
